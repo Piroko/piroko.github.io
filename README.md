@@ -2,6 +2,13 @@ Name | Piroko
 ------------ | -------------
 Groups: | Ayako, Ayako-Chihiro, Chihiro, Ayako-Sae, Sae, Serin, Strike-subs, Sector5, Tortoise, Shouyou, Lily-Subs, Gensokyo, Moetron-subs, Muyo, EnterTheWired, TenguTrans, Piroko, ProjectCirno, #Comiket, Shameimaru, Ramen-subs, Lambda-Delta, Duo, Erobeat, Piroket Scans/Subs
 Official Groups: | Crunchyroll, JAST USA, Sekai Project, Cheese Koubo(doujin circle)
+Specialization: | Editing, Timing, Quality Check, Typesetting
+Languages: | English(Native proficiency), Cantonese(Limited working proficiency), Japanese(Elementary proficiency)
+Born: | April 21st
+Occupation: | Data Center Operations Technician
+Description: | 
+Current & Past Projects: | Anime: | Kamen No Maid Guy, Kanokon Drama CDs, Slayers Revolution, Sekirei, AIKa R-16: Virgin Mission, Minami-ke Okawari, Koihime Musou, Strike Witches, Kanon (2006), Gunslinger Girl, Lucky Star, Kemeko Deluxe, Sora Kake Girl, Sky Girls, GA: Geijutsuka Art Design Class, Chrome Shelled Regios, Strike Witches 2, MitsudoMoe, Asobi ni Iku yo!, Kannagi, Black Rock Shooter OVA, Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi OVA, Isekai no Seikishi Monogatari, Kuttsukiboshi OVA, Maikaze's Touhou Doujin Anime, Hidamari Sketch x ☆☆☆, Bad Apple!! PV, Touhou Kinema Kan, Touhou Kinema Kan ~2nd Act~, Kamichu!, Loups=Garous, Onii-chan no Koto nanka Zenzen Suki Janain Dakara ne!!, Kore wa Zombie Desu ka?, Touhou Mangekyou, Hitoriga, Rin x Sen + Ran -> Sem Cross Mix: Haru Urara, Uragiri to Zetsubou no Kisetsu-hen
+
 
 ## Welcome to GitHub Pages
 
