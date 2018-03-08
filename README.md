@@ -1,3 +1,8 @@
+Name | Piroko
+------------ | -------------
+Groups: | Ayako, Ayako-Chihiro, Chihiro, Ayako-Sae, Sae, Serin, Strike-subs, Sector5, Tortoise, Shouyou, Lily-Subs, Gensokyo, Moetron-subs, Muyo, EnterTheWired, TenguTrans, Piroko, ProjectCirno, #Comiket, Shameimaru, Ramen-subs, Lambda-Delta, Duo, Erobeat, Piroket Scans/Subs
+Official Groups: | Crunchyroll, JAST USA, Sekai Project, Cheese Koubo(doujin circle)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Piroko/piroko.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
