@@ -5,8 +5,8 @@ Official Groups: | Crunchyroll, JAST USA, Sekai Project, Cheese Koubo(doujin cir
 Specialization: | Editing, Timing, Quality Check, Typesetting
 Languages: | English(Native proficiency), Cantonese(Limited working proficiency), Japanese(Elementary proficiency)
 Born: | April 21st
-Occupation: | Data Center Operations Technician
-Description: | 
+Occupation: | Data Center Operations
+Description: | Retired from fansubbing, manga typesetting, and VN editing, but does one-shots and side-projects from time to time. Audiophile, PC gamer, rhythm game enthusiast. Usually listens to anime soundtracks/albums/remixes/J-Core, future bass, glitchop, Vocaloid.
 Completed Anime Projects: | Kamen No Maid Guy, Kanokon Drama CDs, Slayers Revolution, Sekirei, AIKa R-16: Virgin Mission, Minami-ke Okawari, Koihime Musou, Strike Witches, Kanon (2006), Gunslinger Girl, Lucky Star, Kemeko Deluxe, Sora Kake Girl, Sky Girls, GA: Geijutsuka Art Design Class, Chrome Shelled Regios, Strike Witches 2, MitsudoMoe, Asobi ni Iku yo!, Kannagi, Black Rock Shooter OVA, Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi OVA, Isekai no Seikishi Monogatari, Kuttsukiboshi OVA, Maikaze's Touhou Doujin Anime, Hidamari Sketch x ☆☆☆, Bad Apple!! PV, Touhou Kinema Kan, Touhou Kinema Kan ~ 2nd Act ~, Kamichu!, Loups=Garous, Onii-chan no Koto nanka Zenzen Suki Janain Dakara ne!!, Kore wa Zombie Desu ka?, Touhou Mangekyou, Hitoriga, Rin x Sen + Ran -> Sem Cross Mix: Haru Urara, Uragiri to Zetsubou no Kisetsu-hen
 Completed Light Novel Projects: | Strike Witches, Spice and Wolf
 Completed Visual Novel Projects: | AIR, Dote Up a Cat, Over the Rainbow
@@ -14,6 +14,19 @@ Completed Manga/Doujin Projects: | Sayori NEKOWORKs - Neko Paradise II, Kemono F
 Completed Official Anime Projects: | Double Hard、Cosmic Break: Angel Academy, Cosmic Break: Voice Actors Radio Show Day 1 & 2, Cosmic Break: "Initium" Promotional Video, Cosmic Break: CosmicBikinis, Cosmic Break: Eihwaz Origins Part 1-3
 Completed Official Visual Novel Projects: | Osananajimi wa Daitouryou ~My girlfriend is the President.~, NEKOPARA Vol. 1, Shiny Days, Sumeragi Ryouko no Bitch na 1 nichi
 Completed Official Manga/Doujin Projects: | Yumewatari no Mistress
+
+#### Links
+[Homepage](http://pirokoproject.com/)
+[Twitter](https://twitter.com/piroko_project)
+[Imgur (Has all completed scanlations and one-shot typesets)](http://pirokoro.imgur.com/)
+[MyAnimeList](http://myanimelist.net/profile/Piroko)
+[Last.fm](https://www.last.fm/user/Pirokoro)
+[Scanlation Group Page on Batoto(Site Defunct)]
+[Contributions on TLWiki(Site Defunct)]
+[Contributions on Baka-Tsuki(Site Defunct)]
+
+
+
 
 ## Welcome to GitHub Pages
 
