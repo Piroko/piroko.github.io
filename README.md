@@ -15,7 +15,7 @@ Completed Official Anime Projects: | Double Hard、Cosmic Break: Angel Academy, 
 Completed Official Visual Novel Projects: | Osananajimi wa Daitouryou ~My girlfriend is the President.~, NEKOPARA Vol. 1, Shiny Days, Sumeragi Ryouko no Bitch na 1 nichi
 Completed Official Manga/Doujin Projects: | Yumewatari no Mistress
 
-#### Links
+### **Links**
 [Homepage](http://pirokoproject.com/)
 
 [Twitter](https://twitter.com/piroko_project)
