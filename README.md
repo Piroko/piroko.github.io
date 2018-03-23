@@ -45,6 +45,7 @@ Completed Manga/Doujin Projects: | Sayori NEKOWORKs - Neko Paradise II**,** Kemo
 Completed Official Anime Projects: | Double Hard**,** Cosmic Break: Angel Academy**,** Cosmic Break: Voice Actors Radio Show Day 1 & 2**,** Cosmic Break: "Initium" Promotional Video**,** Cosmic Break: CosmicBikinis**,** Cosmic Break: Eihwaz Origins Part 1-3
 Completed Official Visual Novel Projects: | Osananajimi wa Daitouryou ~My girlfriend is the President.~**,** NEKOPARA Vol. 1**,** Shiny Days**,** Sumeragi Ryouko no Bitch na 1 nichi
 Completed Official Manga/Doujin Projects: | Yumewatari no Mistress
+
 Links for me to edit this page because I'm lazy. Please disregard:
 
 - [Edit](https://github.com/Piroko/piroko.github.io/edit/master/README.md)
