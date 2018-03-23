@@ -29,6 +29,7 @@ I'm an audiophile, PC gamer, anison DJ, and rhythm game enthusiast. Usually list
   - RIP my first LN edits
 
 ### My contributions and other information
+
 Alias: | Piroko, Pirokoro, Pirokiko
 | - | - |
 Groups: | Ayako, Ayako-Chihiro, Chihiro, Ayako-Sae, Sae, Serin, Strike-subs, Sector5, Tortoise, Shouyou, Lily-Subs, Gensokyo, Moetron-subs, Muyo, EnterTheWired, TenguTrans, Piroko, ProjectCirno, #Comiket, Shameimaru, Ramen-subs, Lambda-Delta, Duo, Erobeat, Piroket Scans/Subs
@@ -46,8 +47,6 @@ Completed Official Manga/Doujin Projects: | Yumewatari no Mistress
 
 Links for me to edit this page because I'm lazy. Please disregard:
 
-[Edit](https://github.com/Piroko/piroko.github.io/edit/master/README.md)
-
-[Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
-
-[Repository Settings](https://github.com/Piroko/piroko.github.io/settings)
+- [Edit](https://github.com/Piroko/piroko.github.io/edit/master/README.md)
+- [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
+- [Repository Settings](https://github.com/Piroko/piroko.github.io/settings)
