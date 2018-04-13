@@ -4,8 +4,7 @@
 ### **Intro**
 Hi, I'm Piroko.
 
-I've retired from fansubbing, manga typesetting, and VN editing, but I still do one-shots and side-projects from time to time.
-I'm an audiophile, PC gamer, anison DJ, and rhythm game enthusiast. I usually listen to anime soundtracks/albums/remixes/J-Core, future bass, glitchhop, and Vocaloid, while DJing at gatherings and anime conventions occasionally.
+I started fansubbing, manga typesetting, and VN editing in 2007, but I retired around 2017. I still do one-shots and side-projects from time to time when I feel like it for media/franchises I like. I'm an audiophile, PC gamer, anison DJ, and rhythm game enthusiast. I usually listen to anime soundtracks/albums/remixes/J-Core, future bass, glitchhop, and Vocaloid, while DJing at gatherings and anime conventions occasionally.
 
 ### **Links**
 - [Twitter](https://twitter.com/piroko_project)
